@@ -1,0 +1,16 @@
+pytest==8.1.1
+jupyter==1.0.0
+dagster-cloud==1.7.7
+dagster-cloud-cli==1.7.7
+dagster-duckdb==0.23.7
+dagster-duckdb-pandas==0.23.7
+dagster-graphql==1.7.7
+dagster-pipes==1.7.7
+dagster-postgres==0.23.7
+dagster-webserver==1.7.7
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.30
+pandas==2.2.2
+matplotlib==3.9.0
+requests==2.32.2
+Faker==18.4.0
